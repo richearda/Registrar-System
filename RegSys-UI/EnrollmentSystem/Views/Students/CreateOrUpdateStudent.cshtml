@@ -1,0 +1,240 @@
+﻿
+
+
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Create/Update Student</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Student</a></li>
+                    <li class="breadcrumb-item active">Create/Update</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+<!-- Main content -->
+<div class="content">
+    <div class="container-fluid">
+        <div class="card card-success card-outline">
+            <div class="card-body">
+                <div class="back m-2">
+                    <button id="goBack" class="btn btn-success">Go Back</button>
+                </div>
+                <!-- <h5 class="card-title">Card title</h5> -->
+                <div class="container mb-3">
+
+                    <div class="row justify-content-between student-info py-2">
+                        <div class="col-md-6">
+                            <label class="form-label">Student ID No.</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="studentIDNo" disabled aria-label="Student ID Number" aria-describedby="input-student-number">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">LRN</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="lrn" aria-label="Learner's Reference Number'" aria-describedby="input-student-lrn">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">Program</label>
+                            <div class="input-group input-group-sm">
+                                <select id="program" class="form-select">
+                                    <option selected>Choose a Program...</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">Major</label>
+                            <div class="input-group input-group-sm">
+                                <select id="major" class="form-select">
+                                    <option selected>Choose a Major...</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container student-info p-2">
+                    <nav>
+                        <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                            <button class="nav-link active" id="student-info-tab" data-bs-toggle="tab" data-bs-target="#student-info" type="button" role="tab" aria-controls="stud-info" aria-selected="true">Student Information</button>
+                            <button class="nav-link" id="contact-info-tab" data-bs-toggle="tab" data-bs-target="#contact-info" type="button" role="tab" aria-controls="contact-info" aria-selected="false">Contact Information</button>
+                        </div>
+                    </nav>
+                    <div class="tab-content" id="nav-tabContent">
+                        <div class="tab-pane fade show active" id="student-info" role="tabpanel" aria-labelledby="student-info-tab" tabindex="0">
+                            <div class="row g-3 mt-3">
+                                <div class="col-md-6">
+                                    <label class="form-label">First Name</label>
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" id="firstname" placeholder="First Name" aria-label="First Name" aria-describedby="input-first-name">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <label class="form-label">Last Name</label>
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" id="lastname" aria-label="Last Name" aria-describedby="input-last-name">
+                                    </div>
+                                </div>
+                                <div class="col-md-5">
+                                    <label class="form-label">Middle Name</label>
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" id="middlename" aria-label="Middle Name" aria-describedby="input-middle-name">
+                                    </div>
+                                </div>
+                                <div class="col-md-5">
+                                    <label class="form-label">Maiden Name</label>
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" id="maidenname" aria-label="Maiden Name" aria-describedby="input-maiden-name">
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <label class="form-label">Name Extension</label>
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" id="nameextension" aria-label="Name Extension" aria-describedby="input-name-extension">
+                                    </div>
+                                </div>
+                                <div class="row justify-content-between">
+                                    <div class="col-md-3">
+                                        <label class="form-label">Birth Date</label>
+                                        <div class="input-group date" id="bddatepicker" data-target-input="nearest">
+                                            <input type="text" id="birthdate" class="form-control datetimepicker-input" data-target="#bddatepicker" />
+                                            <div class="input-group-append" data-target="#bddatepicker" data-toggle="datetimepicker">
+                                                <div class="input-group-text"><i class="fa-solid fa-calendar-days"></i></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label class="form-label">Birth Place</label>
+                                        <div class="input-group">
+                                            <input type="text" class="form-control" id="birthplace" aria-label="Birth Place" aria-describedby="input-birth-place">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2">
+                                        <label class="form-label">Age</label>
+                                        <div class="input-group">
+                                            <input type="text" class="form-control" id="age" disabled aria-label="Age" aria-describedby="input-age">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <label class="form-label">Gender</label>
+                                    <select id="gender" class="form-select">
+                                        <option selected>Choose Gender...</option>
+                                        <option value="Male">Male</option>
+                                        <option value="Female">Female</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-4">
+                                    <label class="form-label">Civil Status</label>
+                                    <select id="civilstatus" class="form-select">
+                                        <option selected>Choose Status...</option>
+                                        <option value="Single">Single</option>
+                                        <option value="Married">Married</option>
+                                        <option value="Widowed">Widowed</option>
+                                        <option value="Separated">Separated</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-4">
+                                    <label class="form-label">Citizenship</label>
+                                    <select id="citizenship" class="form-select">
+                                        <option selected>Choose Citizenship...</option>
+                                        <option value="Filipino">Filipino</option>
+                                        <option value="Others">Others</option>
+                                    </select>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div class="tab-pane fade" id="contact-info" role="tabpanel" aria-labelledby="contact-info-tab" tabindex="1">
+                            <div class="row g-3">
+
+                                <div class="col-md-4">
+                                    <label class="form-label">Telephone Number</label>
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" id="telephonenumber" aria-label="Tel No." aria-describedby="input-tel-number">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <label class="form-label">Mobile Number</label>
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" id="mobilenumber" aria-label="Mobile No." aria-describedby="input-mobile-number">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <label class="form-label">Email</label>
+                                    <div class="input-group">
+                                        <input type="email" class="form-control" id="email" aria-label="Email Address" aria-describedby="input-email-address">
+                                    </div>
+                                </div>
+                                <label for="inputAddress" class="form-label">Address</label>
+                                <div class="col-md-4">
+                                    <input type="text" class="form-control" id="houseblocklotno" placeholder="House Block/Lot No.">
+                                </div>
+                                <div class="col-md-4">
+                                    <input type="text" class="form-control" id="street" placeholder="Street">
+                                </div>
+                                <div class="col-md-4">
+                                    <input type="text" class="form-control" id="subdivisionvillage" placeholder="Subdivision/Village">
+                                </div>
+                                <div class="col-md-3">
+                                    <label class="form-label">Barangay</label>
+                                    <select id="barangay" class="form-select">
+                                        <option selected>Choose a Barangay</option>
+                                    </select>
+                                </div><div class="col-md-3">
+                                    <label class="form-label">City/Municipality</label>
+                                    <select id="citymunicipality" class="form-select">
+                                        <option selected>Choose a City</option>
+                                        <option>Cebu City</option>
+                                        <option>Mandaue City</option>
+                                        <option>Lapu-lapu City</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-3">
+                                    <label class="form-label">Province</label>
+                                    <select id="province" class="form-select">
+                                        <option selected>Choose a Province</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-3">
+                                    <label class="form-label">Country</label>
+                                    <select id="country" class="form-select">
+                                        <option selected>Choose a Country</option>
+                                        <option value="Philippines">Philippines</option>
+                                        <option value="Others">Others</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-3">
+                                    <label class="form-label">Address Type</label>
+                                    <select id="addresstype" class="form-select">
+                                        <option selected>Choose Type of Address</option>
+                                        <option value="Residential Address">Residential Address</option>
+                                        <option value="Permanent Address">Permanent Address</option>
+                                    </select>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12 m-2 ml-0 p-2 pl-0">
+                                        <button id="saveBtn" class="btn btn-success">Save</button>
+                                        <button class="btn btn-danger">Clear</button>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content -->

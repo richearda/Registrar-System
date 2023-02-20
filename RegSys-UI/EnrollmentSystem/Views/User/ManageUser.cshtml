@@ -1,0 +1,91 @@
+﻿<script src="~/js/user/manageuser.js"></script>
+
+@{
+    ViewData["Title"] = "AIMS | Manage Users";
+}
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">@ViewData["Header"]</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Manage</a></li>
+                    <li class="breadcrumb-item active">Users</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+<!-- Main content -->
+<div class="content">
+    <div class="container-fluid">
+        <div class="card card-success card-outline">
+            <div class="card-body">
+                <div class="header mb-3">
+                    <div class="row">
+                        <div class="col-12 d-flex justify-content-end mr-1">
+                            <button type="button" class="btn btn-success" id="createUser">Create User</button>
+                        </div>
+                    </div>
+                </div>
+
+                <table id="tblUserList" class="table table-bordered table-striped table-hover data-table-width">
+                </table>
+
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+
+    
+</div>
+
+
+<!--Manage User Modal-->
+<div class="modal fade" id="userModal" data-bs-backdrop="static" data-bs-keyboard="false">
+    <div class="modal-dialog modal-dialog-centered modal-sm">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="userModalLabel">Manage User</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                
+
+                <div class="row justify-content-between">
+                    <div class="col-md-12">
+                        <label class="form-label">First Name</label>
+                        <div class="input-group input-group-sm">
+                            <input type="text" class="form-control" id="firstname" aria-label="Enrollment Number" aria-describedby="input-enrollment-number">
+                        </div>
+                         <label class="form-label">Last Name</label>
+                       <div class="input-group input-group-sm">
+                            <input type="text" class="form-control" id="lastname" aria-label="Enrollment Number" aria-describedby="input-enrollment-number">
+                        </div>
+                        <label class="form-label">Username</label>
+                        <div class="input-group input-group-sm">
+                            <input type="text" class="form-control" id="username" aria-label="Enrollment Number" aria-describedby="input-enrollment-number">
+                        </div>
+
+                        <label class="form-label">Password</label>
+                        <div class="input-group input-group-sm">
+                            <input type="text" class="form-control" id="password" aria-label="Enrollment Date" aria-describedby="input-enrollment-date">
+                        </div>
+                        <label class="form-label">Role</label>
+                        <select id="role" class="form-select">
+                            <option selected>Select a Role</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary" id="saveUserInfo">Save</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

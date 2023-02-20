@@ -1,0 +1,12 @@
+﻿@{
+    string initPath = Convert.ToString(ViewData["InitPath"]);
+    if (initPath == "Login")
+    {
+        Layout = "_Login_Layout";
+    }
+    else
+    {
+        Layout = "_Layout";
+    }
+
+}

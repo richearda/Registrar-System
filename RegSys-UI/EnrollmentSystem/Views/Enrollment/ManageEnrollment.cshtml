@@ -1,0 +1,291 @@
+﻿<script src="~/js/enrollment/manageenrollment.js"></script>
+
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Enrollment</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Manage</a></li>
+                    <li class="breadcrumb-item active">Enrollment</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+
+<div class="content">
+    <div class="container-fluid">
+        <div class="card card-success card-outline">
+            <div class="card-body">              
+                <!--Enrollees Table-->
+                <table id="enrolleesTable" class="dataTable data-table-width compact hover row-border stripe">
+                    @*This is the enrollees table list.*@
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+    <!--Modal Course Enrollment-->
+ <div class="modal fade" id="courseEnrollmentModal" data-bs-backdrop="static" data-bs-keyboard="false">
+        <div class="modal-dialog modal-dialog-centered modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="enrollmentModalLabel">Enroll Student</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+
+                    <div class="row justify-content-between enrollment-info">
+                        <input type="hidden" id="activeTermId" />
+                        <input type="hidden" id="activeSemId"/>
+                        <div class="col-md-5">
+                            <label class="form-label">Enrollment No.</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="enrollmentNo" aria-label="Enrollment Number" aria-describedby="input-enrollment-number">
+                            </div>
+
+                            <label class="form-label">Enrollment Date:</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="enrollmentDate" aria-label="Enrollment Date" aria-describedby="input-enrollment-date">
+                            </div>
+
+                            <label class="form-label">School Year:</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="schoolYear" aria-label="Current School Year" aria-describedby="input-school-year">
+                            </div>
+
+                            <label class="form-label">Semester:</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="semester" aria-label="Current Semester" aria-describedby="input-semester">
+                            </div>
+                            <label class="form-label">Block</label>
+                            <select id="blocks" class="form-select">
+                                    <option selected>Select a Block</option>
+                            </select>
+                        </div>
+
+                        <div class="col-md-5">
+                            <label class="form-label">Student Name</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="studentName" aria-label="Student Name" aria-describedby="input-student-name">
+                            </div>
+
+                            <input type="hidden" id="studentId" />
+                            <label class="form-label">Student No.</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="studentNo" aria-label="Student Number" aria-describedby="input-student-number">
+                            </div>
+
+
+                            <label class="form-label">Program</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="program" aria-label="Program" aria-describedby="input-program">
+                            </div>
+
+                            <label class="form-label">Major</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="major" aria-label="Major" aria-describedby="input-major">
+                            </div>
+
+                            <label class="form-label">Year Level</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="yearLevel" aria-label="Year Level" aria-describedby="input-year-level">
+                            </div>
+                        </div>
+                    </div>
+
+                <!--Table to display enrolled subjects-->
+                <div class="col-md-12 col-12">
+                    <div class="row justify-content-center mt-5">
+                        <div class="col-md-12 mt-1 enrolledCourseListTable">
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <!--Table to display block courses-->
+                    <div class="col-md-12 col-12 courseTable"></div>                 
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary" id="enrollStudentButton">Enroll Student</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!--Enrollment Info Modal-->
+ <div class="modal fade" id="studentEnrollmentInfoModal" data-bs-backdrop="static" data-bs-keyboard="false">
+        <div class="modal-dialog modal-dialog-centered modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="enrollmentModalLabel">Enrollment Info</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+
+                    <div class="row justify-content-between enrollment-info">
+
+                        <div class="col-md-4">
+                            <label class="form-label">Student Name</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="studentName" aria-label="Student Name" aria-describedby="input-student-name">
+                            </div>
+
+                            <input type="hidden" id="studentId" />
+                            <label class="form-label">Student No.</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="studentNo" aria-label="Student Number" aria-describedby="input-student-number">
+                            </div>
+
+                            <label class="form-label">Program</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="program" aria-label="Program" aria-describedby="input-program">
+                            </div>
+
+                            <label class="form-label">Major</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="major" aria-label="Major" aria-describedby="input-major">
+                            </div>
+
+                            <label class="form-label">Year Level</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="yearLevel" aria-label="Year Level" aria-describedby="input-year-level">
+                            </div>
+                        </div>
+                        <!--Table to display Enrollment History-->
+                        <div class="col-md-8">
+                            <table id="enrollmentHistoryTableList" class="dataTable data-table-width compact hover row-border stripe">
+                            </table>
+                        </div>
+                    </div>
+
+                    
+
+                    <div class="row justify-content-center mt-5">                      
+                        <div class="col-md-12 mt-1 enrolledCourseList">
+                            <table id="enrollmentCourseList" class="dataTable data-table-width compact hover row-border stripe">
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="card d-none mt-2">
+        <div class="card-header bg-black"></div>
+        <div class="card-body toprint">
+            <div class="container">
+                <div class="row justify-content-between">
+                    <div class="col-8 col-sm-8 col-md-8">
+                          <div class="row justify-content-center">
+                            <div class="col-2 col-sm-2 col-md-2 col-lg-2 text-center my-auto">
+                                <img src="~/img/mandaue_city_college_logo.jpg" class="rounded img-fluid" alt="Republic of the Philippines logo" style="width:80px; height:80px;">
+                            </div>
+                            <div class="col-6 col-sm-6 col-md-6 col-lg-6 my-auto">
+                                <h3 class="text-uppercase mt-3" style="font-size: 1.5rem; font-family:'Times New Roman'; line-height:50%;">MANDAUE CITY COLLEGE</h3>
+                                <h5 class="text-uppercase mt-3" style="font-size: 0.8rem; font-family:'Times New Roman'; line-height:50%;">Mandaue City Cultural and Sports Complex</h5>
+                                <h4 class="text-uppercase mt-3" style="font-size: 0.8rem; font-family:'Times New Roman'; line-height:50%;">Don Andres Soriano Ave., Centro, Mandaue City</h4>
+                                <h3 class="text-uppercase mt-3" style="font-size: 0.8rem; font-family:'Times New Roman'; line-height:50%;">Telephone No.: (032)420-9228</h3>
+                            </div>
+                          </div>
+                    </div>
+                   
+
+                <div class="col-4 col-sm-4 col-md-4">
+                    <div class="row">
+                        <div class="col-12 col-xl-12">
+                            <label class="d-inline">Date: </label> <span class="enrollmentDate"></span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12 col-xl-12">
+                            <label class="d-inline">SY Sem: </label> <span class="schoolYear"></span>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12 col-xl-12">
+                            <label class="d-inline">Sem: </label> <span class="semester"></span>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12 col-xl-12">
+                            <label class="d-inline">Enrollment No: </label> <span class="enrollmentNo"></span>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+                <div class="row justify-content-between mt-5">
+                </div>
+
+                <div class="row">
+                    <div class="col-12 col-xl-12 text-center">
+                        <label class="fw-bold">Study Load </label>
+                    </div>
+                    <div class="col-6 col-xl-6">
+                        <label class="d-inline">Course: </label> <span class="course"></span>
+                    </div>
+                    <div class="col-6 col-xl-6">
+                        <label class="d-inline">Major: </label> <span class="major"></span>
+                    </div>
+                    <div class="col-6 col-xl-6">
+                        <label class="d-inline">Name: </label> <span class="studentName"></span>
+                    </div>
+                    <div class="col-6 col-xl-6">
+                        <label class="d-inline">Year: </label> <span class="year"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <table class="table text-center">
+                        <thead>
+                            <tr>
+                                <th scope="col">EDP Code</th>
+                                <th scope="col">Subject</th>
+                                <th scope="col">Room</th>
+                                <th scope="col">Day</th>
+                                <th scope="col">Time Start</th>
+                                <th scope="col">Time End</th>
+                                <th scope="col">Units</th>
+                                <th scope="col">Instructor Sign</th>
+                            </tr>
+                        </thead>
+                        <tbody class="courseData">
+                            
+                        </tbody>
+                        
+                    </table>
+                    <div class="col-11 col-md-11 text-right"><label>Total Units: </label><span class="ml-2" id="totalUnits"></span></div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-6">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="col-12"><button type="button" class="btn btn-success no-print" id="printButton">Print</button></div>
+    </div>
+  
+</div>
+

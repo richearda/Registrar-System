@@ -1,0 +1,518 @@
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\appsettings.Development.json
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\appsettings.json
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.exe
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.deps.json
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.runtimeconfig.json
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.runtimeconfig.dev.json
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\ref\ISMS_API.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.pdb
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.AssemblyReference.cache
+E:\FILES\ISMS\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\FILES\ISMS\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.AssemblyInfoInputs.cache
+E:\FILES\ISMS\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.AssemblyInfo.cs
+E:\FILES\ISMS\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.CoreCompileInputs.cache
+E:\FILES\ISMS\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.MvcApplicationPartsAssemblyInfo.cs
+E:\FILES\ISMS\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.MvcApplicationPartsAssemblyInfo.cache
+E:\FILES\ISMS\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\ISMS_API.StaticWebAssets.Manifest.cache
+E:\FILES\ISMS\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\ISMS_API.StaticWebAssets.xml
+E:\FILES\ISMS\ISMS_API\ISMS_API\obj\Debug\net5.0\scopedcss\bundle\ISMS_API.styles.css
+E:\FILES\ISMS\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.RazorTargetAssemblyInfo.cache
+E:\FILES\ISMS\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\obj\Debug\net5.0\ref\ISMS_API.dll
+E:\FILES\ISMS\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.pdb
+E:\FILES\ISMS\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.genruntimeconfig.cache
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\appsettings.Development.json
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\appsettings.json
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.exe
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.deps.json
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.runtimeconfig.json
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.runtimeconfig.dev.json
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ref\ISMS_API.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.pdb
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.AssemblyReference.cache
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.AssemblyInfoInputs.cache
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.AssemblyInfo.cs
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.CoreCompileInputs.cache
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.MvcApplicationPartsAssemblyInfo.cs
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.MvcApplicationPartsAssemblyInfo.cache
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\ISMS_API.StaticWebAssets.Manifest.cache
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\ISMS_API.StaticWebAssets.xml
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\scopedcss\bundle\ISMS_API.styles.css
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.RazorTargetAssemblyInfo.cache
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ref\ISMS_API.dll
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.pdb
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.genruntimeconfig.cache
+E:\FILES\Project Source\MCC-ISMS\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.CopyComplete
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\appsettings.json
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.exe
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.deps.json
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.runtimeconfig.json
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.runtimeconfig.dev.json
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ref\ISMS_API.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.pdb
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.AssemblyReference.cache
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.AssemblyInfoInputs.cache
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.AssemblyInfo.cs
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.CoreCompileInputs.cache
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\ISMS_API.StaticWebAssets.Manifest.cache
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\ISMS_API.StaticWebAssets.xml
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\scopedcss\bundle\ISMS_API.styles.css
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.RazorTargetAssemblyInfo.cache
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ref\ISMS_API.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.pdb
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.genruntimeconfig.cache
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BOBOY-PC\Desktop\Capstone\MCC-ISMS-Latest\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.CopyComplete
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\appsettings.json
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.exe
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.deps.json
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.runtimeconfig.json
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.runtimeconfig.dev.json
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ref\ISMS_API.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.pdb
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.AssemblyInfoInputs.cache
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.AssemblyInfo.cs
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.CoreCompileInputs.cache
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\ISMS_API.StaticWebAssets.Manifest.cache
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\ISMS_API.StaticWebAssets.xml
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\scopedcss\bundle\ISMS_API.styles.css
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.RazorTargetAssemblyInfo.cache
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.CopyComplete
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ref\ISMS_API.dll
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.pdb
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.genruntimeconfig.cache
+C:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.AssemblyReference.cache
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\appsettings.Development.json
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\appsettings.json
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.StaticWebAssets.xml
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.exe
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.deps.json
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.runtimeconfig.json
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.runtimeconfig.dev.json
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.pdb
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\AutoMapper.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Humanizer.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.AssemblyReference.cache
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.AssemblyInfoInputs.cache
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.AssemblyInfo.cs
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.CoreCompileInputs.cache
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\scopedcss\bundle\ISMS_API.styles.css
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\ISMS_API.StaticWebAssets.Manifest.cache
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.RazorTargetAssemblyInfo.cache
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.CopyComplete
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\refint\ISMS_API.dll
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.pdb
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.genruntimeconfig.cache
+E:\Users\BOBOY-PC\Desktop\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ref\ISMS_API.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\appsettings.json
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.StaticWebAssets.xml
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.exe
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.deps.json
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.runtimeconfig.json
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.runtimeconfig.dev.json
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.pdb
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.AssemblyReference.cache
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.AssemblyInfoInputs.cache
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.AssemblyInfo.cs
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.CoreCompileInputs.cache
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\scopedcss\bundle\ISMS_API.styles.css
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\ISMS_API.StaticWebAssets.Manifest.cache
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.RazorTargetAssemblyInfo.cache
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.CopyComplete
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\refint\ISMS_API.dll
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.pdb
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.genruntimeconfig.cache
+C:\Users\BOBOY-PC\source\repos\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ref\ISMS_API.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.StaticWebAssets.xml
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.exe
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.deps.json
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.runtimeconfig.json
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.runtimeconfig.dev.json
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.pdb
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.AssemblyInfo.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\scopedcss\bundle\ISMS_API.styles.css
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\ISMS_API.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.CopyComplete
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\refint\ISMS_API.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.pdb
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.genruntimeconfig.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ref\ISMS_API.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\appsettings.json
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.StaticWebAssets.xml
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.exe
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.deps.json
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.runtimeconfig.json
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.runtimeconfig.dev.json
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\ISMS_API.pdb
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.AssemblyReference.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.AssemblyInfoInputs.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.AssemblyInfo.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.CoreCompileInputs.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\scopedcss\bundle\ISMS_API.styles.css
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\ISMS_API.StaticWebAssets.Manifest.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\ISMS_API.StaticWebAssets.Pack.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\msbuild.ISMS_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\msbuild.build.ISMS_API.props
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ISMS_API.props
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ISMS_API.props
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.RazorTargetAssemblyInfo.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.csproj.CopyComplete
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\refint\ISMS_API.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.pdb
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ISMS_API.genruntimeconfig.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-API\ISMS_API\ISMS_API\obj\Debug\net5.0\ref\ISMS_API.dll

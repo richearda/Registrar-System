@@ -1,0 +1,56 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+/* custom styles */
+th {
+    text-align: center !important;
+    
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+.data-table-width {
+    width: 100%;
+}
+
+/*.modal-header {
+    display: block !important;
+}*/
+/*.dataTables_wrapper .dataTables_paginate .paginate_button:active {
+    color:lightgreen !important;
+}*/
+.data-table-button {
+    display: flow-root;
+    margin-bottom: 8px !important;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.fa-icon-link {
+    color: deepskyblue;
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+table.dataTable.compact tr.selected td.select-checkbox:after, table.dataTable.compact tr.selected th.select-checkbox:after {
+    margin-top:-30px !important;
+}
+
+#offeredCourseTableList tbody tr.selected {
+    color: white !important;
+    background-color: palegreen !important;
+}
+
+.modal:nth-of-type(even) {
+    z-index: 1052 !important;
+}
+
+.modal-backdrop.show:nth-of-type(even) {
+    z-index: 1051 !important;
+}

@@ -1,0 +1,100 @@
+﻿
+@model EnrollmentSystem.Models.Student;
+
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Enrollment Information</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Enrollment</a></li>
+                    <li class="breadcrumb-item active">Information</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+
+<div class="content">
+    <div class="container-fluid">
+        <div class="card card-success card-outline">
+            <div class="card-body">
+
+                <div class="row mb-3">
+                    <div class="col-md-4 justify-content-between">
+                        <i id="backBtn" class="fa-solid fa-arrow-left fa-2xl mb-3"></i>
+                    </div>
+                </div>
+                
+                <div class="main-content">
+                   <div class="row justify-content-between enrollment-info">
+
+                        <div class="col-md-4">
+                            <label class="form-label">Student Name</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" value="@Model.FullName" class="form-control" id="studentName" aria-label="Student Name" aria-describedby="input-student-name">
+                            </div>
+
+                            <input type="hidden" id="studentId" value="@Model.StudentId" />
+                            <label class="form-label">Student No.</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" value="@Model.StudentNo" class="form-control" id="studentNo" aria-label="Student Number" aria-describedby="input-student-number">
+                            </div>
+
+                            <label class="form-label">Program</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" value="@Model.Course" class="form-control" id="program" aria-label="Program" aria-describedby="input-program">
+                            </div>
+
+                            <label class="form-label">Major</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" value="@Model.Major" class="form-control" id="major" aria-label="Major" aria-describedby="input-major">
+                            </div>
+
+                            <label class="form-label">Year Level</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" value="@Model.YearLevel" class="form-control" id="yearLevel" aria-label="Year Level" aria-describedby="input-year-level">
+                            </div>
+                        </div>
+                        <!--Table to display Enrollment History-->
+                        <div class="col-md-8">
+                            <table id="enrollmentHistoryTableList" class="dataTable data-table-width compact hover row-border stripe">
+                            </table>
+                        </div>
+                    </div>
+
+                             
+                </div>
+            </div>
+        </div>
+    </div>
+
+  <div class="modal fade" id="displayUnenrolledCourseModal" data-bs-backdrop="static" data-bs-keyboard="false">
+        <div class="modal-dialog modal-dialog-centered modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="enrollmentModalLabel">Choose a course to add.</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+
+                  
+                    <!--Table to display courses-->
+                    <table id="unenrolledCoursesTable" class="dataTable data-table-width compact hover row-border stripe">
+                        This table is for course list.
+                    </table>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" id="btnEnrollCourse">Enroll Courses</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+

@@ -1,0 +1,162 @@
+﻿<script src="~/js/report/masterlist.js"></script>
+@{
+    ViewData["Title"] = "Generate Master List";
+}
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Generate Masterlist</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Report</a></li>
+                    <li class="breadcrumb-item active">Master List</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+<!-- Main content -->
+<div class="content">
+    <div class="container-fluid">
+        <div class="card card-success card-outline">
+            <div class="card-body">
+                <div class="row justify-content-center mb-3">
+                    <div class=col-6>
+                        <label class="form-label">School Year</label>
+                        <select id="schoolYear" class="form-select">
+                            <option selected>Select School Year</option>
+                        </select>
+                        <label class="form-label">Semester</label>
+                        <select id="semester" class="form-select">
+                            <option selected>Select Semester</option>
+                        </select>
+                        <div class="row justify-content-end mt-2">
+                            <div class="col-md-6 col-6">
+                                <button type="button" class="btn btn-primary" id="search">Search Subjects</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- <h5 class="card-title">Card title</h5> -->
+                <table id="subjectListTable" class="dataTable data-table-width compact hover row-border stripe">
+                </table>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content -->
+<!--Master List Info Modal-->
+<div class="modal fade" id="masterListInfoModal" data-bs-backdrop="static" data-bs-keyboard="false">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="subjectMasterListLabel">Subject Master List</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+
+         <div class="container printmasterlist">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-12">
+                    <div class="row justify-content-center">
+                        <div class="col-3 col-sm-3 col-md-3 col-lg-3 text-center my-auto">
+                            <img src="~/img/mandaue seal.jpg" class="rounded img-fluid" alt="Mandaue Seal" style="width:100px; height:100px;" />                          
+                        </div>
+                        <div class="col-6 col-sm-6 col-md-6 col-lg-6 my-auto text-center">
+                            <h5 class="mt-3" style="font-size: 0.8rem; font-family:'Times New Roman'; line-height:50%;">Republic of the Philippines</h5>
+                            <h5 class="text-uppercase mt-3" style="font-size: 0.8rem; font-family:'Times New Roman'; line-height:50%;">CITY OF MANDAUE</h5>
+                            <h3 class="text-uppercase mt-3" style="font-size: 1.5rem; font-family:'Times New Roman'; font-weight:bold; line-height:50%;">MANDAUE CITY COLLEGE</h3>
+                            <h5 class="text-uppercase mt-3" style="font-size: 0.6rem; font-family:'Times New Roman'; line-height:50%;">Mandaue City Cultural and Sports Complex</h5>
+                            <h4 class="text-uppercase mt-3" style="font-size: 0.6rem; font-family:'Times New Roman'; line-height:50%;">Don Andres Soriano Ave., Centro, Mandaue City</h4>
+                            <h3 class="mt-3" style="font-size: 0.8rem; font-family:'Times New Roman'; line-height:50%;">Tel Nos.: (032)236-5520, (032)420-9228|Email: mc.college@hotmail.com</h3>
+                        </div>
+                         <div class="col-3 col-sm-3 col-md-3 col-lg-3 text-center my-auto">
+                            <img src="~/img/mandaue_city_college_logo.jpg" class="rounded img-fluid" alt="MCC Logo" style="width:100px; height:100px;">
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="row justify-content-center mt-3">
+                    <div class="col-md-12 text-center"><h2>Masterlist</h2></div>
+                    <div class="col-md-12 text-center"><h4 class="semesterAndYear"></h4>Second Semester, A.Y 2021-2022</div>
+                </div>
+
+                <div class="row mt-3 justify-content-center">
+                    <div class="col-md-8">
+                    <table class="table table-bordered">
+                        <thead class="d-none">
+                            <tr>
+                                <th scope="col"></th>
+                                <th scope="col"></th>
+                                <th scope="col"></th>
+                                <th scope="col"></th>
+                              
+                            </tr>
+                        </thead>
+                        <tbody class="subjectInfo">
+                            <tr>                               
+                                <td>EDP Code</td>   
+                                <td class="edpCodeValue">IT200302</td>
+                                <td>Day</td>
+                                <td class="dayValue">MWF</td>
+                            </tr>
+                            <tr>
+                                <td>Course Code</td>
+                                <td class="courseCodeValue">NET 101</td>
+                                <td>Time Schedule</td>
+                                <td class="timeScheduleValue">10:30 AM - 1:00 PM</td>
+                            </tr>
+                            <tr>                               
+                                <td>Description</td>   
+                                <td class="descriptionValue">NETWORKING 101</td>
+                                <td>Room</td>
+                                <td class="roomValue">Room 12</td>
+                            </tr>
+                            <tr>
+                                <td>Faculty</td>
+                                <td class="facultyValue">JEALOUSY SAGA</td>
+                                <td>Units</td>
+                                <td class="unitsValue">3</td>
+                            </tr>
+                        </tbody>
+
+                    </table>
+                    </div>
+                </div>
+
+
+                <div class="row mt-3 justify-content-center">
+                    <div class="col-md-10">
+                        <table class="table table-bordered">
+                            <thead>
+                                <tr>
+                                    <th scope="col">#</th>
+                                    <th scope="col">STUDENT NO.</th>
+                                    <th scope="col">NAMES</th>
+                                    <th scope="col">COURSE</th>
+                                    <th scope="col">YEAR LEVEL</th>
+                                </tr>
+                            </thead>
+                            <tbody class="subjectStudentList">                                                           
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+            </div>            
+        </div>              
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-success no-print" id="printMasterListButton">Print</button>
+            </div>
+        </div>
+    </div>
+</div>
+

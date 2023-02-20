@@ -1,0 +1,174 @@
+﻿<script src="~/js/block/manageblock.js"></script>
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Manage Block</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Manage</a></li>
+                    <li class="breadcrumb-item active">Block</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+
+
+
+<div class="content">
+    <div class="container-fluid">
+        <div class="card card-success card-outline">
+            <div class="card-header p-0 pt-1 border-bottom-0">
+                <ul class="nav nav-tabs" id="manage-block-tab" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="manage-block-manage-records-tab" data-toggle="pill" href="#manage-block-manage-records" role="tab" aria-controls="manage-block-manage-records" aria-selected="true" onclick="getActiveBlockList()">Active Blocks</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="manage-block-activations-tab" data-toggle="pill" href="#manage-block-activations" role="tab" aria-controls="manage-block-activations" aria-selected="false" onclick="getInactiveBlockList()">Activation</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="card-body">
+                <div class="tab-content" id="manage-block-tab-tabContent">
+                    <div class="tab-pane fade show active" id="manage-block-manage-records" role="tabpanel" aria-labelledby="manage-block-manage-records-tab">
+                        <button class="btn btn-success data-table-button" type="button" data-toggle="tooltip" data-placement="top" title="Add Record" onclick="openBlockModal(0,'','','','','')"><i class="fa fa-plus"></i></button>
+                        <table id="tblActiveBlock" class="table table-bordered table-striped table-hover data-table-width">
+                        </table>
+                    </div>
+                    <div class="tab-pane fade" id="manage-block-activations" role="tabpanel" aria-labelledby="manage-block-activations-tab">
+                        <table id="tblInactiveBlock" class="table table-bordered table-striped table-hover data-table-width">
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!--Modal Block-->
+    <div class="modal fade" id="manageBlockModal" data-bs-backdrop="static" data-bs-keyboard="false">
+        <div class="modal-dialog modal-dialog-centered modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="blockModalTitle">Manage Block</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                 <form id="blockForm" name="blockForm">
+                <div class="modal-body">
+                        <input type="hidden" id="blockID" />
+                        <input type="hidden" id="operationType" />
+
+                        <fieldset>
+                            <div class="form-group">
+                                <label class="control-label">Block Name</label>
+                                <input type="text" class="form-control" name="blockname" id="blockName" />
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label">Program</label>
+                                <select id="blockProgram" name="blockprogram" class="form-select">
+                                    <option>Select Program</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label">Block Major</label>
+                                <select id="blockMajor" name="blockmajor" class="form-select">
+                                    <option>Select Major</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label">Term</label>
+                                <select id="blockTerm" name="term" class="form-select" placeholder="Select Term">
+                                    <option selected>Select Term</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label">Semester</label>
+                                <select id="blockSemester" name="semester" class="form-select" placeholder="Select Semester">
+                                    <option selected>Select Semester</option>
+                                </select>
+                            </div>
+                        </fieldset>
+                </div>              
+                <div class="modal-footer">
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <!--Modal Block Subject-->
+    <div class="modal fade" id="manageBlockSubjectModal" data-bs-backdrop="static" data-bs-keyboard="false">
+        <div class="modal-dialog modal-dialog-centered modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="blockSubjectModalTitle">Manage Subjects</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="card-body">
+
+                    <input type="hidden" id="blockSubjectID" />
+
+                    <div class="row justify-content-between ml-3 mr-3 block-subject-info">
+                        <div class="col-md-5">
+                            <label class="form-label">Block Name</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="blockName" aria-label="Block Name" aria-describedby="subject-block-name">
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <label class="form-label">Program</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="blockProgram" aria-label="Program" aria-describedby="subject-block-program">
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <label class="form-label">Major</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="blockMajor" aria-label="Major" aria-describedby="subject-block-major">
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <label class="form-label">Term</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="blockTerm" aria-label="School Year" aria-describedby="subject-block-school-year">
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <label class="form-label">Semester:</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="blockSemester" aria-label="Semester" aria-describedby="subject-block-semester">
+                            </div>
+                        </div>
+
+                        <div class="row mt-3">
+                            <h3>Current Subjects</h3>
+                            <table id="tblBlockCurrentSubjects" class="table table-bordered table-striped table-hover data-table-width">
+                            </table>
+                        </div>
+
+
+                        <div class="row mt-3">
+                            <h3>Subjects not in Block</h3>
+                           <table id="tblBlockSubjects" class="table table-bordered table-striped table-hover data-table-width">
+                           </table>                          
+                        </div>
+                    </div>
+                   
+                    <div class="modal-footer">
+                        <button type="submit" class="btn btn-primary" id="addBlockSubjectBtn">Submit</button>
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

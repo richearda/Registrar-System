@@ -1,0 +1,107 @@
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\EnrollmentSystem.exe
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\EnrollmentSystem.deps.json
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\EnrollmentSystem.runtimeconfig.json
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\EnrollmentSystem.runtimeconfig.dev.json
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\EnrollmentSystem.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\EnrollmentSystem.pdb
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\EnrollmentSystem.Views.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\EnrollmentSystem.Views.pdb
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.AssemblyInfo.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\scopedcss\bundle\EnrollmentSystem.styles.css
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\staticwebassets\EnrollmentSystem.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.TagHelpers.input.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.TagHelpers.output.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.RazorCoreGenerate.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Block\ManageBlock.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Block\ManageBlockSubject.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Enrollment\EnrollmentInfo.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Enrollment\EnrollStudent.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Enrollment\ManageEnrollment.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Login\_Login_Layout.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Report\MasterList.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Report\StudyLoad.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Students\CreateOrUpdateStudent.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Students\ManageStudents.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\User\ManageUser.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.Views.pdb
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.csproj.CopyComplete
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\refint\EnrollmentSystem.dll
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.pdb
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.genruntimeconfig.cache
+C:\Users\user\Desktop\Riche Files\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\ref\EnrollmentSystem.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\EnrollmentSystem.exe
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\EnrollmentSystem.deps.json
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\EnrollmentSystem.runtimeconfig.json
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\EnrollmentSystem.runtimeconfig.dev.json
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\EnrollmentSystem.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\EnrollmentSystem.pdb
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\EnrollmentSystem.Views.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\EnrollmentSystem.Views.pdb
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.csproj.AssemblyReference.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.AssemblyInfoInputs.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.AssemblyInfo.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.RazorAssemblyInfo.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.RazorAssemblyInfo.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\scopedcss\bundle\EnrollmentSystem.styles.css
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\staticwebassets\EnrollmentSystem.StaticWebAssets.Manifest.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\staticwebassets\EnrollmentSystem.StaticWebAssets.Pack.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\staticwebassets\msbuild.EnrollmentSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\staticwebassets\msbuild.build.EnrollmentSystem.props
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EnrollmentSystem.props
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EnrollmentSystem.props
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.TagHelpers.input.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.TagHelpers.output.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.RazorCoreGenerate.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Block\ManageBlock.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Block\ManageBlockSubject.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Enrollment\EnrollmentInfo.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Enrollment\EnrollStudent.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Enrollment\ManageEnrollment.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Login\_Login_Layout.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Report\MasterList.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Report\StudyLoad.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Students\CreateOrUpdateStudent.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\Students\ManageStudents.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\User\ManageUser.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.RazorTargetAssemblyInfo.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.RazorTargetAssemblyInfo.cs
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.Views.pdb
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.csproj.CopyComplete
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\refint\EnrollmentSystem.dll
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.pdb
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\EnrollmentSystem.genruntimeconfig.cache
+C:\Users\RICHE\Desktop\Riche Files\Source Codes\Enrollment System\ISMS-UI\EnrollmentSystem\obj\Debug\net5.0\ref\EnrollmentSystem.dll

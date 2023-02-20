@@ -1,0 +1,90 @@
+﻿@model EnrollmentSystem.Models.Student
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Enrolll Student</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Enrollment</a></li>
+                    <li class="breadcrumb-item active">Student</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+
+<div class="content">
+    <div class="container-fluid">
+        <div class="card card-success card-outline">
+            <div class="card-body">               
+                <div class="main-content">
+                    <div class="row justify-content-between enrollment-info">
+                        <div class="col-md-5">
+                            <label class="form-label">Enrollment No.</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="enrollmentNo" aria-label="Enrollment Number" aria-describedby="input-enrollment-number">
+                            </div>
+
+                            <label class="form-label">Enrollment Date:</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="enrollmentDate" aria-label="Enrollment Date" aria-describedby="input-enrollment-date">
+                            </div>
+
+                            <label class="form-label">School Year:</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="schoolYear" aria-label="Current School Year" aria-describedby="input-school-year">
+                            </div>
+
+                            <label class="form-label">Semester:</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="semester" aria-label="Current Semester" aria-describedby="input-semester">
+                            </div>
+                        </div>
+
+                        <div class="col-md-5">
+                            <label class="form-label">Student Name</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" id="studentName" aria-label="Student Name" aria-describedby="input-student-name">
+                            </div>
+
+                            <input type="hidden" id="studentId" value="@Model.StudentId" />
+                            <label class="form-label">Student No.</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" value="@Model.FullName" class="form-control" id="studentNo" aria-label="Student Number" aria-describedby="input-student-number">
+                            </div>
+
+
+                            <label class="form-label">Program</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" class="form-control" value="@Model.Course" id="program" aria-label="Program" aria-describedby="input-program">
+                            </div>
+
+                            <label class="form-label">Major</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" value="@Model.Major" class="form-control" id="major" aria-label="Major" aria-describedby="input-major">
+                            </div>
+
+                            <label class="form-label">Year Level</label>
+                            <div class="input-group input-group-sm">
+                                <input type="text" value="@Model.YearLevel" class="form-control" id="yearLevel" aria-label="Year Level" aria-describedby="input-year-level">
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--Table to display courses-->
+                    <table id="offeredCourseTableList" class="dataTable data-table-width compact hover row-border stripe">
+                        This table is for course list.
+                    </table>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary" id="enrollStudentButton">Enroll Student</button>
+                </div>              
+            </div>
+        </div>
+    </div>
+</div>
